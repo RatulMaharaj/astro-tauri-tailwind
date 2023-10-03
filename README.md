@@ -4,7 +4,7 @@
 git clone https://github.com/RatulMaharaj/astro-tauri-tailwind.git
 ```
 
-or click the green <a href="https://github.com/new?template_name=astro-tauri-tailwind&template_owner=RatulMaharaj" style="padding: 5px 16px; border-radius: 6px; background-color: rgb(35,134,54); font-size: 14px; font-weight:500; color: white; text-decoration:none;">Use this template</a> button above.
+or click the green [Use this template](https://github.com/new?template_name=astro-tauri-tailwind&template_owner=RatulMaharaj) button above.
 
 ## 🚀 Project Structure
 
