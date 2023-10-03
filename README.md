@@ -1,5 +1,9 @@
 # Astro + Tailwind Tauri Starter App
 
+![Screenshot](/screenshot.png)
+
+To get started, run:
+
 ```sh
 git clone https://github.com/RatulMaharaj/astro-tauri-tailwind.git
 ```
