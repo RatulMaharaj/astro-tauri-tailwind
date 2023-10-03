@@ -1,0 +1,13 @@
+  :root {
+    --accent: 136, 58, 234;
+    --accent-light: 224, 204, 250;
+    --accent-dark: 49, 10, 101;
+  }
+
+  html {
+    @apply box-border bg-neutral-950;
+  }
+
+  body {
+    @apply flex flex-col items-center justify-center min-h-screen;
+  }
